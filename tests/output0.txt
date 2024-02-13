@@ -1,0 +1,2 @@
+C1,-sin(t),-2*cos(t)
+V1,sin(t),-2*cos(t)

@@ -1,0 +1,4 @@
+<R1>.....<2*cos(t)>.....<cos(t)>
+<L1>.....<dirac(t) - sin(t)>.....<cos(t)>
+<C1>.....<sin(t)/2>.....<cos(t)>
+<Is>.....<sin(t)/2 - dirac(t) - 2*cos(t)>.....<cos(t)>
